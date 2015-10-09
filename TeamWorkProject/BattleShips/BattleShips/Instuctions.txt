@@ -1,0 +1,18 @@
+
+
+
+Instuctions: 
+
+
+ 1) Place 5 ships on your board.
+ 2) Place your ships in format "a5r".
+[a-j] - row;  [0-9] - col;  [rlud] - direction 
+ 
+ 4) Take turns with the AI.
+ 5) Input coordinates to bomb in format "a5".
+[a-j] - row;  [0-9] - col;
+
+ 7) Successful hits are marked by "X"  
+ 8) Misses are marked by "$".
+ 9) Destroyed ships are listed.
+ 9) Win by sinking all enemy ships.
