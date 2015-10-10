@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01SortArrayOfNumbers", "01SortArrayOfNumbers\01SortArrayOfNumbers.csproj", "{6EAC7496-AE8D-417D-AD71-D8C675B39D2A}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05LongestIncreasingSequence", "05LongestIncreasingSequence\05LongestIncreasingSequence.csproj", "{44E8FFDF-894A-46F0-8507-C2300E610572}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06SubsetSums", "06SubsetSums\06SubsetSums.csproj", "{0C4BF6B2-2AE7-4831-A752-861A4D9D03A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. StuckNumbers", "09. StuckNumbers\09. StuckNumbers.csproj", "{FA8D1A20-AA9F-41FF-8022-88554EF77449}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{0C4BF6B2-2AE7-4831-A752-861A4D9D03A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C4BF6B2-2AE7-4831-A752-861A4D9D03A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C4BF6B2-2AE7-4831-A752-861A4D9D03A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA8D1A20-AA9F-41FF-8022-88554EF77449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8D1A20-AA9F-41FF-8022-88554EF77449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8D1A20-AA9F-41FF-8022-88554EF77449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8D1A20-AA9F-41FF-8022-88554EF77449}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

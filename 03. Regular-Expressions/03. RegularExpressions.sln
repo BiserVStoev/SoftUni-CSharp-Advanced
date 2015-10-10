@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. ExtractEmails", "03. Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. SentenceExtractor", "04. SentenceExtractor\04. SentenceExtractor.csproj", "{EBE2AA4B-D715-4C57-AD63-95CFB9452C2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. SemanticHTML", "09. SemanticHTML\09. SemanticHTML.csproj", "{CE138C40-D392-400A-951A-0C2B22586963}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{EBE2AA4B-D715-4C57-AD63-95CFB9452C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBE2AA4B-D715-4C57-AD63-95CFB9452C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBE2AA4B-D715-4C57-AD63-95CFB9452C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE138C40-D392-400A-951A-0C2B22586963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE138C40-D392-400A-951A-0C2B22586963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE138C40-D392-400A-951A-0C2B22586963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE138C40-D392-400A-951A-0C2B22586963}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
